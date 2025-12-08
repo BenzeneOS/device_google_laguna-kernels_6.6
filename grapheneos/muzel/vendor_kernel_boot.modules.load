@@ -30,7 +30,6 @@ extra/private/google-modules/soc/gs/drivers/regulator/s2dos07x02-regulator.ko
 extra/private/google-modules/soc/gs/drivers/regulator/tps628600-regulator.ko
 extra/private/google-modules/soc/gs/drivers/iommu/samsung-secure-iova.ko
 extra/private/google-modules/soc/gs/drivers/misc/sbb-mux/sbb-mux.ko
-extra/private/google-modules/soc/gs/drivers/misc/sscoredump/sscoredump.ko
 extra/private/google-modules/soc/gs/drivers/dma-buf/heaps/samsung/samsung_dma_heap.ko
 extra/private/google-modules/soc/gs/drivers/usb/dwc3/google-role-sw.ko
 extra/private/google-modules/soc/gs/drivers/usb/host/xhci-goog-dma.ko
@@ -54,7 +53,6 @@ extra/private/google-modules/soc/rdo/ap-pmic/rtc/da9188-rtc.ko
 extra/private/google-modules/soc/rdo/ap-pmic/vgpio/da9188-vgpio.ko
 extra/private/google-modules/soc/rdo/ap-pmic/da9188-core.ko
 extra/private/google-modules/soc/rdo/clocksource/google/sst/google_sst.ko
-extra/private/google-modules/soc/rdo/cpm-tracepoint/google-cpm-tracepoint.ko
 extra/private/google-modules/soc/rdo/cpmlog/google_cpmlog.ko
 extra/private/google-modules/soc/rdo/cpufreq/google_cpufreq.ko
 extra/private/google-modules/soc/rdo/cstate-ctrl/cstate_ctrl.ko
@@ -170,10 +168,14 @@ extra/private/google-modules/radio/common/metrics_collection/metrics_collection.
 extra/private/google-modules/soc/gs/drivers/block/zram/zcomp_cpu.ko
 extra/private/google-modules/soc/gs/drivers/block/zram/zcomp_eh.ko
 extra/private/google-modules/soc/gs/drivers/block/zram/zram_gs.ko
+extra/private/google-modules/soc/gs/drivers/misc/sscoredump/sscoredump.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/eh/eh.ko
-extra/private/google-modules/soc/gs/drivers/soc/google/gsa/gsa.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/gsa/gsa_gsc.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/gsa/gsa.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/gsa/tzprot.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/pixel_trim/pixel_trim.ko
+extra/private/google-modules/soc/rdo/drivers/soc/google/fwtp/fwtp_cpm_module.ko
+extra/private/google-modules/soc/rdo/drivers/soc/google/fwtp/fwtp_lib.ko
 extra/private/google-modules/soc/rdo/mem-qos/google-mem-qos.ko
 extra/private/google-modules/touch/common/goog_touch_interface.ko
 extra/private/google-modules/touch/common/heatmap.ko

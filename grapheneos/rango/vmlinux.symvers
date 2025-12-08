@@ -3208,6 +3208,7 @@
 0x0d915a1a	clk_hw_unregister	vmlinux	EXPORT_SYMBOL_GPL	
 0x49e4d17f	devm_clk_register	vmlinux	EXPORT_SYMBOL_GPL	
 0xfb3ec2fb	devm_clk_hw_register	vmlinux	EXPORT_SYMBOL_GPL	
+0xaf80fcf2	devm_clk_hw_get_clk	vmlinux	EXPORT_SYMBOL_GPL	
 0x5a834013	clk_notifier_register	vmlinux	EXPORT_SYMBOL_GPL	
 0x8a6c9c84	clk_notifier_unregister	vmlinux	EXPORT_SYMBOL_GPL	
 0x291de2cb	of_clk_src_simple_get	vmlinux	EXPORT_SYMBOL_GPL	
