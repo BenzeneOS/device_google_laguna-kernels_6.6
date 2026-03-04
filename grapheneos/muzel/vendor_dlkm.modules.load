@@ -25,6 +25,7 @@ extra/private/google-modules/soc/gs/drivers/soc/google/gnssif_spi/gnssif.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/hardlockup-watchdog.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/perf_trace_counters.ko
 extra/private/google-modules/soc/gs/drivers/regulator/slg51002-regulator.ko
+extra/private/google-modules/soc/gs/drivers/iommu/iommu_map_benchmark.ko
 extra/private/google-modules/soc/gs/drivers/mfd/slg51002-core.ko
 extra/private/google-modules/soc/gs/drivers/spmi/spmi_bit_bang.ko
 extra/private/google-modules/soc/gs/drivers/usb/gadget/function/usb_f_dm1.ko
@@ -109,3 +110,4 @@ extra/private/google-modules/touch/synaptics/syna_gtd/syna_touch.ko
 extra/private/google-modules/uwb/slsi/u100/u100.ko
 extra/private/google-modules/wlan/bcmdhd/bcm4383/bcmdhd4383.ko
 extra/private/google-modules/wlan/bcmdhd/bcm4390/bcmdhd4390.ko
+extra/private/google-modules/wlan/wonder/wonder.ko
